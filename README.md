@@ -2,7 +2,7 @@
 
 A comprehensive background check tool for companies to analyze potential candidates using their Twitter/X social media presence. This platform leverages advanced NLP techniques and AI to provide insights into candidate interests, personality traits, and cultural fit.
 
-## 🚀 Features
+##  Features
 
 ### Core Analysis
 - **Real Twitter API Integration**: Fetches actual tweets from Twitter/X profiles
@@ -24,7 +24,7 @@ A comprehensive background check tool for companies to analyze potential candida
 - **Question Categorization**: Organizes questions by type (Technical, Cultural Fit, etc.)
 - **Candidate-Specific Insights**: Tailored questions addressing specific interests and concerns
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Backend
 - **Next.js 15**: React framework with API routes
@@ -46,7 +46,7 @@ A comprehensive background check tool for companies to analyze potential candida
 - **Compromise**: Text processing
 - **Node-NLP**: Advanced NLP features
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before running this project, you'll need:
 
@@ -55,7 +55,7 @@ Before running this project, you'll need:
 3. **Node.js 18+**: JavaScript runtime
 - **pnpm**: Package manager (recommended)
 
-## 🔧 Installation
+##  Installation
 
 1. **Clone the repository**
    ```bash
@@ -97,7 +97,7 @@ Before running this project, you'll need:
 5. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
 
-## 🔑 API Keys Setup
+##  API Keys Setup
 
 ### Twitter API Setup
 1. Go to [Twitter Developer Portal](https://developer.twitter.com/)
@@ -134,7 +134,7 @@ Before running this project, you'll need:
 - **Category Organization**: Questions grouped by type and purpose
 - **Context-Aware**: Addresses specific interests and potential concerns
 
-## 🎯 Use Cases
+##  Use Cases
 
 ### For HR Professionals
 - **Background Screening**: Comprehensive social media analysis
@@ -179,7 +179,7 @@ Before running this project, you'll need:
 - Detail orientation
 - Adaptability
 
-## 🔒 Privacy & Ethics
+##  Privacy & Ethics
 
 ### Data Handling
 - Only analyzes publicly available tweets
@@ -193,7 +193,7 @@ Before running this project, you'll need:
 - Fair assessment criteria
 - Respectful of candidate privacy
 
-## 🚀 Deployment
+##  Deployment
 
 ### Vercel (Recommended)
 1. Push code to GitHub
@@ -206,7 +206,7 @@ Before running this project, you'll need:
 - **Railway**: Full-stack deployment
 - **AWS**: EC2 or Lambda deployment
 
-## 📝 API Endpoints
+##  API Endpoints
 
 ### `/api/analyze`
 - **Method**: POST
@@ -249,7 +249,7 @@ Before running this project, you'll need:
 3. Extend NLP service in `lib/nlp-service.ts`
 4. Update types and interfaces as needed
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -257,18 +257,18 @@ Before running this project, you'll need:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🆘 Support
+##  Support
 
 For support and questions:
 - Create an issue in the repository
 - Check the documentation
 - Review the API documentation
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - **Multi-platform Support**: LinkedIn, GitHub analysis
 - **Advanced Analytics**: Trend analysis over time

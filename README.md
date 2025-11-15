@@ -1,4 +1,4 @@
-# Twitter-Based Candidate Analysis Platform
+# Twitter Content Analysis
 
 A comprehensive background check tool for companies to analyze potential candidates using their Twitter/X social media presence. This platform leverages advanced NLP techniques and AI to provide insights into candidate interests, personality traits, and cultural fit.
 
